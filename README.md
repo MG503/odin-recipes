@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes Practice
+This project will demonstrate knowledge of html, git and commit language. 
